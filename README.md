@@ -1,6 +1,6 @@
-# AI Chatbot with LangChain, Qwen2.5-0.5B, and Gradio
+# AI Chatbot with LangChain, LangChain Memory, Qwen2.5-0.5B, and Gradio
 
-This project is an open-source AI chatbot built using [LangChain](https://github.com/langchain-ai/langchain), [Qwen2.5-0.5B](https://huggingface.co/Qwen/Qwen2.5-0.5B), and [Gradio](https://gradio.app/). It supports conversational memory and a customizable prompt.
+This project is an open-source AI chatbot built using [LangChain](https://github.com/langchain-ai/langchain), [LangChain Memory](https://python.langchain.com/docs/modules/memory/), [Qwen2.5-0.5B](https://huggingface.co/Qwen/Qwen2.5-0.5B), and [Gradio](https://gradio.app/). It supports conversational memory and a customizable prompt.
 
 ## Features
 
